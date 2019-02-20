@@ -1,0 +1,41 @@
+exit()
+print("oi")
+
+não precisa de ;
+não precisa dizer o tipo de dado
+não usa camel case -> usar _ -> nome_pessoa
+potência: 2 elevaado a 3 = 2 ** 3
+resto da divisão: 10%3
+    % se chama módulo
+
+len(nome)
+nome.upper()
+
+# -> comentário
+
+elif -> else if
+
+** para rodar o arquivo -> abrir o terminal, localizar o arquivo -> py <nome_do_arquivo>
+
+f'ola {nome}'
+
+lista1 = ['ale', True, 1.8]
+print(lista1)
+lista1[0]
+
+dicionário -> como se fosse o objeto em js
+dicionario1 = {'nome': 'ale', 'idade' : 25}
+dicionario tem uma key e um nome
+
+tupla
+tupla1 = ('oi', 2, 'tchau')
+não deixa sobrescrever o dado
+
+range(10,77)
+
+for ja tem o iterador (ja tem o ++)
+
+
+is compara o valor e o tipo de dado (é o ===)
+
+def é uma função
